@@ -22,7 +22,7 @@ in the same directory and have them linked to your test function.
 
 Running Instructions:
 
-If you used option 1 for building simplly type the following into your command line:
+If you used option 1 for building simply type the following into your command line:
 
 ./test size
 
